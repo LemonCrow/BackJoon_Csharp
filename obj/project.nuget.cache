@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "nUH1sIhdwYrrqd456YjWNO7prWg9n54lml2ngSyk4s+LbFa+7mkvqFmquvq2N9spA6+sAg/KShgFZw0faRKg5g==",
+  "dgSpecHash": "KaIMzDa2eugK6QMsZPWvHFp4MhIZRI92UZjqQ/EdAULolBAmJ6mM6hr1SFmvhktBkewaxRSGwbiTXBaiXpHkog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\이준서\\Desktop\\C# 알고리즘\\C# 알고리즘.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "/Users/ijunseo/작업용폴더/BackJoon_Csharp/C# 알고리즘.csproj",
+  "expectedPackageFiles": [
+    "/Users/ijunseo/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/ijunseo/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/Users/ijunseo/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.15/microsoft.netcore.app.host.osx-arm64.7.0.15.nupkg.sha512"
+  ],
   "logs": []
 }

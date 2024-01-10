@@ -8,26 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\이준서\\.nuget\\packages\\": {}
+    "/Users/ijunseo/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\이준서\\Desktop\\C# 알고리즘\\C# 알고리즘.csproj",
+      "projectUniqueName": "/Users/ijunseo/작업용폴더/BackJoon_Csharp/C# 알고리즘.csproj",
       "projectName": "C# 알고리즘",
-      "projectPath": "C:\\Users\\이준서\\Desktop\\C# 알고리즘\\C# 알고리즘.csproj",
-      "packagesPath": "C:\\Users\\이준서\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\이준서\\Desktop\\C# 알고리즘\\obj\\",
+      "projectPath": "/Users/ijunseo/작업용폴더/BackJoon_Csharp/C# 알고리즘.csproj",
+      "packagesPath": "/Users/ijunseo/.nuget/packages/",
+      "outputPath": "/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\이준서\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/ijunseo/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -56,12 +54,26 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.osx-arm64",
+            "version": "[7.0.15, 7.0.15]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.15, 7.0.15]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.403\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.101/RuntimeIdentifierGraph.json"
       }
     }
   }

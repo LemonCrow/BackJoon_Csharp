@@ -1,14 +1,22 @@
-C:\Users\이준서\Desktop\C# 알고리즘\bin\Debug\net7.0\C# 알고리즘.exe
-C:\Users\이준서\Desktop\C# 알고리즘\bin\Debug\net7.0\C# 알고리즘.deps.json
-C:\Users\이준서\Desktop\C# 알고리즘\bin\Debug\net7.0\C# 알고리즘.runtimeconfig.json
-C:\Users\이준서\Desktop\C# 알고리즘\bin\Debug\net7.0\C# 알고리즘.dll
-C:\Users\이준서\Desktop\C# 알고리즘\bin\Debug\net7.0\C# 알고리즘.pdb
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.AssemblyInfoInputs.cache
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.AssemblyInfo.cs
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.csproj.CoreCompileInputs.cache
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.dll
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\refint\C# 알고리즘.dll
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.pdb
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\C# 알고리즘.genruntimeconfig.cache
-C:\Users\이준서\Desktop\C# 알고리즘\obj\Debug\net7.0\ref\C# 알고리즘.dll
+C:/Users/이준서/Desktop/C# 알고리즘/bin/Debug/net7.0/C# 알고리즘.exe
+C:/Users/이준서/Desktop/C# 알고리즘/bin/Debug/net7.0/C# 알고리즘.deps.json
+C:/Users/이준서/Desktop/C# 알고리즘/bin/Debug/net7.0/C# 알고리즘.runtimeconfig.json
+C:/Users/이준서/Desktop/C# 알고리즘/bin/Debug/net7.0/C# 알고리즘.dll
+C:/Users/이준서/Desktop/C# 알고리즘/bin/Debug/net7.0/C# 알고리즘.pdb
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.AssemblyInfoInputs.cache
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.AssemblyInfo.cs
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.csproj.CoreCompileInputs.cache
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.dll
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/refint/C# 알고리즘.dll
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.pdb
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/C# 알고리즘.genruntimeconfig.cache
+C:/Users/이준서/Desktop/C# 알고리즘/obj/Debug/net7.0/ref/C# 알고리즘.dll
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.AssemblyInfoInputs.cache
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.AssemblyInfo.cs
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.csproj.CoreCompileInputs.cache
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.sourcelink.json
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.dll
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/refint/C# 알고리즘.dll
+/Users/ijunseo/작업용폴더/BackJoon_Csharp/obj/Debug/net7.0/C# 알고리즘.pdb

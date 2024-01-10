@@ -8,4 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = C__알고리즘
-build_property.ProjectDir = C:\Users\이준서\Desktop\C# 알고리즘\
+build_property.ProjectDir = /Users/ijunseo/작업용폴더/BackJoon_Csharp/
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
